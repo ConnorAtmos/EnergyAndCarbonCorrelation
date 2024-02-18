@@ -1,0 +1,39 @@
+-=[CO2 Emissions/Carbon Dioxide Over Time]=-
+[NASA (2nd source)]
+CO2 using Scripps: https://climate.nasa.gov/vital-signs/carbon-dioxide/
+
+[Scripps]
+Website: https://scrippsco2.ucsd.edu/
+CO2 Program: https://scrippsco2.ucsd.edu/data/atmospheric_co2/mlo.html
+Locations of data: https://scrippsco2.ucsd.edu/research/atmospheric_co2.html
+
+    (In Situ)
+    Site of Images: https://siocpg.ucsd.edu/technology/in-situ/
+    CO2 Recordings: https://scrippsco2.ucsd.edu/assets/data/atmospheric/stations/in_situ_co2/daily/daily_in_situ_co2_mlo.csv
+    Flask CO2 Recordings: https://scrippsco2.ucsd.edu/assets/data/atmospheric/stations/flask_co2/daily/daily_flask_co2_mlo.csv
+    Flask C13 Recordings: https://scrippsco2.ucsd.edu/assets/data/atmospheric/stations/flask_isotopic/daily/daily_flask_c13_mlo.csv
+    Flask O18 Recordings: https://scrippsco2.ucsd.edu/assets/data/atmospheric/stations/flask_isotopic/daily/daily_flask_o18_mlo.csv
+
+-=[Energy Consumption Over Time]=-
+[EIA]
+Website: https://www.eia.gov/
+Energy Sources: https://www.eia.gov/energyexplained/us-energy-facts/
+Proof of Reliability: https://www.eia.gov/about/information_quality_guidelines.php
+Vision and Core: https://www.eia.gov/about/vision_core_values.php
+
+    (Data Collection Building)
+    Energy Consumption Over Time: https://www.eia.gov/energyexplained//us-energy-facts/charts/primary-consumption-by-major-source.csv
+
+-=[Causation between CO2 emissions and performance]=-
+[NIH]
+Website: https://ehp.niehs.nih.gov/
+
+    (Data Collection)
+    Correlation between CO2 ppm and performance: https://ehp.niehs.nih.gov/doi/10.1289/ehp.1104789
+
+-=[Volcano Acitivities]=-
+[OpenDataSoft]
+Website: https://public.opendatasoft.com
+
+    (Significant Volcanic Eruption Database)
+    Data: https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/significant-volcanic-eruption-database/exports/csv?lang=en&timezone=America%2FChicago&use_labels=true&delimiter=%3B
